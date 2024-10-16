@@ -1,0 +1,24 @@
+.button button{
+    width: 150px;
+    height: 50px;
+    background-color: #C1E9FF;
+    border-color: black;
+}
+.welcome_page{
+    height: 100vh;
+}
+.welcome_content{
+    margin: auto;
+}
+.about_page{
+    height: 100vh;
+}
+.projects_page{
+    height: 100vh;
+}
+.hobbies_page{
+    height: 100vh;
+}
+.contact_page{
+    height: 100vh;
+}
